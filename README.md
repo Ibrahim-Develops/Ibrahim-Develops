@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
-<h1>Introduction:</h1>
+<h2>Introduction:</h2>
 <h1 align="center">A passionate web developer from Pakistan</h1>
 <h2>Profile Views:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-develops&label=Profile%20views&color=e9164b&style=flat" alt="ibrahim-develops" /> </p>
