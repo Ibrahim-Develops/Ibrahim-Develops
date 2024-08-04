@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-develops&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ibrahim-develops" /></p><br>
 <h1>Activity On Github:</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-develops&theme=dark" alt="ibrahim-develops" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-develops&theme=dark" alt="ibrahim-develops" /></p><br>
