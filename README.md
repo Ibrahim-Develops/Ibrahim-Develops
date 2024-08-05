@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://images.app.goo.gl/pW5Bsa81MKk2zVVq6" alt="ibrahim-develops" /></p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
 <h2>Introduction:</h2>
 <h1 align="center">A passionate web developer from Pakistan</h1>
