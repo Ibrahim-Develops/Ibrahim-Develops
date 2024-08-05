@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="Coder GIF" height=350 width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
+<p align="center"><img align="center" alt="Coder GIF" height=400 width="700" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
 <h2>Introduction:</h2>
 <h1 align="center">A passionate web developer from Pakistan</h1>
