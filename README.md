@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Pursuing **Computer Science Engineering**
 
-- 🌱 I'm currently learning **Web Development**
+- 🌱 I'm currently **Achieving My Goals**
 
 - 📫 How to reach me **ibrahimdevelopss@gmail.com**
 
