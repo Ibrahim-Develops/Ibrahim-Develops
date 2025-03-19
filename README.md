@@ -29,5 +29,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-develops&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="ibrahim-develops" /></p><br>
 <h2>My Stats:</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-develops&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ibrahim-develops" /></p><br>
-<h2>Activity On Github:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-develops&theme=dark" alt="ibrahim-develops" /></p>
