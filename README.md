@@ -1,4 +1,4 @@
-<span align="center"><img align="center" alt="Coder GIF"  width="100%" src="https://github.com/Ibrahim-Develops/Ibrahim-Develops/blob/main/Cover.jpeg" /></span>
+<span align="center"><img align="center" alt="Coder GIF" height="70%"  width="100%" src="https://github.com/Ibrahim-Develops/Ibrahim-Develops/blob/main/Cover.jpeg" /></span>
 <div>
   <h1 align="center">Let’s Inspire And Innovate Together !</h1>
 
